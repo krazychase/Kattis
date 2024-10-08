@@ -2,6 +2,7 @@
 Solutions to [Kattis](https://open.kattis.com/) coding challenges.
 | Problem | Difficulty | Language |
 |:-------:|:----------:|:--------:|
+| [Aaah!](https://open.kattis.com/problems/aaah) | 1.5 | JS |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | 1.5 | C |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | 1.5 | C |
 | [Planting Trees](https://open.kattis.com/problems/plantingtrees) | 1.7 | Python |
